@@ -1,0 +1,5 @@
+KINDS OF CARDS ACCEPTED AT STATE BANK ATMs
+Besides all cards of State Bank of India, State Bank ATM-Cum-Debit Card and State Bank International ATM-Cum-Debit Cards following cards are also accepted at State Bank ATMs:
+State Bank Credit Card
+Cards issued by other banks displaying Maestro, Master Card, Cirrus, VISA and VISA Electron logos
+All Debit/ Credit Cards issued by any bank outside India displaying Maestro, Master Card, Cirrus, VISA and VISA Electron logos

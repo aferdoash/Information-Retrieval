@@ -1,0 +1,9 @@
+OTHER SERVICES AVAILABLE ON THE Cash Deposit Machine:
+
+PIN change
+Use this service to change your password at regular intervals.
+Balance Enquiry
+Expecting an inflow of funds in your account? Use this service to check the current available balance in your account. This service is available on the main option screen after swiping your card. You can also ‘Go Green' by selecting the view option as the balance is displayed on the screen else get a transaction receipt by selecting print.
+Mini Statement of Account
+Keep track of the transactions in your account by availing this service. Mini-statement gives you an insight into the last 10 transactions in your account.
+

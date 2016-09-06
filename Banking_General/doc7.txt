@@ -1,0 +1,9 @@
+The Cash Deposit Machine, better known as CDM is an ATM like machine that allows you to deposit cash directly into your account using the ATM cum debit card. You can use this machine to instantly credit your account without visiting the branch. The transaction receipt also gives you your updated account balance. Some of the salient features of this product are:
+Instant credit of cash deposit into your own account
+Quick and convenient way to deposit cash
+Paperless transaction
+The per transaction limit is Rs.49,900/-
+Upto 200 currency notes can be deposited in a single transaction
+The CDMonly accepts denominations of Rs.1000/-, Rs.500/- & Rs.100/-
+At present, cash deposit at CDMs are available free of cost to all our customers except when using Green Remit Cards.Our SME Insta Card and Business Debit Card customers can also use the CDMs for instant deposit of cash. Locate your nearest CDM using the SBI Finder application.
+

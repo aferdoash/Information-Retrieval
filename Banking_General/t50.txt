@@ -1,0 +1,112 @@
+ What is IFSC?
+
+Ans : IFSC or Indian Financial System Code is an alpha-numeric code that uniquely identifies a bank-branch participating in the NEFT system. This is an 11 digit code with the first 4 alpha characters representing the bank, and the last 6 characters representing the branch. The 5th character is 0 (zero). IFSC is used by the NEFT system to identify the originating / destination banks / branches and also to route the messages appropriately to the concerned banks / branches.
+
+Q.10. How can the IFSC of a bank-branch be found?
+
+Ans: Bank-wise list of IFSCs is available with all the bank-branches participating in NEFT. List of bank-wise branches participating in NEFT and their IFSCs is available on the website of Reserve Bank of India at http://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2009 . All the banks have also been advised to print the IFSC of the branch on cheques issued to their customers.
+
+Further, banks have also been advised to ensure that their branch staff provide necessary assistance to customers in filling out the required details, including IFSC details, in the NEFT application form, and also help in ensuring that there is no mismatch between the IFSC code and branch details of beneficiary branch as provided by the customer.
+
+Q.11. What are the processing or service charges for NEFT transactions?
+
+Ans: The structure of charges that can be levied on the customer for NEFT is given below:
+
+a) Inward transactions at destination bank branches (for credit to beneficiary accounts)
+
+– Free, no charges to be levied on beneficiaries
+
+b) Outward transactions at originating bank branches – charges applicable for the remitter
+
+- For transactions up to Rs 10,000 : not exceeding Rs 2.50 (+ Service Tax)
+
+- For transactions above Rs 10,000 up to Rs 1 lakh: not exceeding Rs 5 (+ Service Tax)
+
+- For transactions above Rs 1 lakh and up to Rs 2 lakhs: not exceeding Rs 15 (+ Service Tax)
+
+- For transactions above Rs 2 lakhs: not exceeding Rs 25 (+ Service Tax)
+
+c) Charges applicable for transferring funds from India to Nepal using the NEFT system (under the Indo-Nepal Remittance Facility Scheme) is available on the website of RBI at http://rbi.org.in/scripts/FAQView.aspx?Id=67
+
+With effect from 1st July 2011, originating banks are required to pay a nominal charge of 25 paise each per transaction to the clearing house as well as destination bank as service charge. However, these charges cannot be passed on to the customers by the banks.
+
+Q.12. When can the beneficiary expect to get the credit to his bank account?
+
+Ans: The beneficiary can expect to get credit for the NEFT transactions within two business hours (currently NEFT business hours is from morning 8 AM to evening 7 PM on all week days and from morning 8 AM to afternoon 1 PM on Saturdays) from the batch in which the transaction was settled.
+
+Q.13. Who should be contacted in case of non-credit or delay in credit to the beneficiary account?
+
+Ans: In case of non-credit or delay in credit to the beneficiary account, the NEFT Customer Facilitation Centre (CFC) of the respective bank can be contacted (the remitter can contact his bank’s CFC; the beneficiary may contact the CFC of his bank). Details of NEFT Customer Facilitation Centres of banks are available on the websites of the respective banks. The details are also available on the website of Reserve Bank of India at http://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2070.
+
+If the issue is not resolved satisfactorily, the NEFT Help Desk (or Customer Facilitation Centre of Reserve Bank of India) at National Clearing Cell, Reserve Bank of India, Mumbai may be contacted through e-mail or by addressing correspondence to the General Manager, Reserve Bank of India, National Clearing Centre, First Floor, Mumbai Regional Office, Fort Mumbai 400001
+
+Q.14. What will happen if credit is not afforded to the account of the beneficiary?
+
+Ans: If it is not possible to afford credit to the account of the beneficiary for whatever reason, destination banks are required to return the transaction (to the originating branch) within two hours of completion of the batch in which the transaction was processed.
+
+For example, if a customer submits a fund transfer request at 12.05 p.m. to a NEFT-enabled branch, the branch in turn forwards the message through its pooling centre to the NEFT Clearing Centre for processing in the immediately available batch which (say) is the 1.00 pm batch. If the destination bank is unable to afford the credit to the beneficiary for any reason, it has to return the transaction to the originating bank, not later than in the 3.00 pm batch. On receiving such a returned transaction, the originating bank has to credit the amount back to account of the originating customer.
+
+Q.15. Can NEFT be used to transfer funds from / to NRE and NRO accounts?
+
+Ans: Yes. NEFT can be used to transfer funds from or to NRE and NRO accounts in the country. This, however, is subject to the adherence of the provisions of the Foreign Exchange Management Act, 2000 (FEMA) and Wire Transfer Guidelines.
+
+Q.16. Can remittances be sent abroad using NEFT?
+
+Ans: No. However, a facility is available to send outward remittances to Nepal under the Indo-Nepal Remittance Facility Scheme.
+
+Q.17. What are the other transactions that could be initiated using NEFT?
+
+Ans: Besides personal funds transfer, the NEFT system can also be used for a variety of transaction including payment of credit card dues to the card issuing banks, payment of loan EMI etc. It is necessary to quote the IFSC of the beneficiary card issuing bank to initiate the bill payment transactions using NEFT.
+
+Q.18. Can a transaction be originated to draw (receive) funds from another account?
+
+Ans: No. NEFT is a credit-push system i.e., transactions can be originated by the payer / remitter/send only to pay/ transfer / remit funds to a beneficiary.
+
+Q.19. Would the remitter receive an acknowledgement once the funds are transferred to the account of the beneficiary?
+
+Ans: Yes. In case of successful credit to the beneficiary's account, the bank which had originated the transaction is expected to send a confirmation to the originating customer (through SMS or e-mail) advising of the credit as also mentioning the date and time of credit. For the purpose, remitters need to provide their mobile number / e-mail-id to the branch at the time of originating the transaction.
+
+Q.20. Is there a way for the remitter to track a transaction in NEFT?
+
+Ans: Yes, the remitter can track the NEFT transaction through the originating bank branch or its CFC using the unique transaction reference number provided at the time of initiating the funds transfer. It is possible for the originating bank branch to keep track and be aware of the status of the NEFT transaction at all times.
+
+Q.21. What are the pre-requisites for originating a NEFT transaction?
+
+Ans: Following are the pre-requisites for putting through a funds transfer transaction using NEFT– 
+
+•Originating and destination bank branches should be part of the NEFT network
+
+
+•Beneficiary details such as beneficiary name, account number and account type, name and IFSC of the beneficiary bank branch should be available with the remitter 
+
+
+Customers should exercise due care in providing the account number of the beneficiary, as, in the course of processing NEFT transactions, the credit will be given to the customer’s account solely based on account number provided in the NEFT remittance instruction / message.
+
+Q.22. What are the benefits of using NEFT?
+
+Ans: NEFT offers many advantages over the other modes of funds transfer:
+
+•The remitter need not send the physical cheque or Demand Draft to the beneficiary.
+
+
+•The beneficiary need not visit his / her bank for depositing the paper instruments.
+
+
+•The beneficiary need not be apprehensive of loss / theft of physical instruments or the likelihood of fraudulent encashment thereof. 
+
+
+•Cost effective. 
+
+
+•Credit confirmation of the remittances sent by SMS or email. 
+
+
+•Remitter can initiate the remittances from his home / place of work using the internet banking also. 
+
+
+•Near real time transfer of the funds to the beneficiary account in a secure manner. 
+
+
+Q.23. Is there any compensation for the customers, if the credit is delayed to beneficiary account or if there is any delay is returning the transaction to the originator / sender / remitter?
+
+Ans: Yes. If the NEFT transaction is not credited or returned within the stipulated time then the banks are liable to pay penal interest to the affected customers. Banks are required to pay penal interest at the current RBI LAF Repo Rate plus two percent for the period of delay / till the date of refund as the case may be to the affected customers’ account without waiting for a specific claim to be lodged by the customer in this regard.

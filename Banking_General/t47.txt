@@ -1,0 +1,17 @@
+
+•Customer should conduct any ATM/WLA transaction in complete privacy.
+•Only one card holder should enter and access ATM/WLA kiosk at a time.
+•He/she should never lend his/her card to anyone.
+•Do not write PIN on the card.
+•Never share PIN with anyone or seek help from anybody by handing over the card and revealing the PIN.
+•Never let anyone see the PIN while it is being entered at the ATM
+•Never use a PIN that could be easily guessed. e.g. his/her birthday, birthday of spouse or telephone number.
+•Never leave card in the ATM/WLA.
+•Register mobile number with the card issuing bank for getting alerts for ATM /WLA transactions. Any unauthorized card transaction in the account, if observed, should be immediately reported to the card issuing bank.
+Beware of any extra devices attached to the ATMs/WLAs. These may be put to capture customer’s data fraudulently. If any such device is found, inform the security guard / bank/ white label ATM entity maintaining it immediately.
+Keep an eye on suspicious movements of people around ATMs/WLAs. Customer should beware of strangers trying to engaging him/her in conversation or offering assistance / help in operating the ATM.
+Remember that bank officials will never ask for card details or PIN over telephone / email. So, do not respond to any vishing / phishing mails from people indicating that they represent your bank.
+ 
+ 
+
+

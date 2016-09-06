@@ -1,0 +1,10 @@
+8 Golden Rules to make your Internet Banking experience safe and secure
+1. Change your Password at regular intervals
+2. Help SBI in preventing frauds (phishing) by reporting such incidents to report.phishing@sbi.co.in
+3. Access portal by typing https://www.onlinesbi.com Do not click on any shortcuts/links
+4. Avoid accessing your account from public places like cyber cafes
+5. Use virtual keyboard to enter user ID and Password
+6. Avoid entering sensitive info in pop-ups
+7. Track your transactions and usage history regularly
+8. Use latest and genuine software on your system with secure settings
+

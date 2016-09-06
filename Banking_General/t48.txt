@@ -1,0 +1,72 @@
+Q. No. 1: How many types of cards are available to a customer?
+
+Ans: Cards can be classified on the basis of their issuance, usage and payment by the card holder. There are three types of cards (a) debit cards (b) credit cards and (c) prepaid cards.
+
+Q. No. 2: Who issues these cards?
+
+Ans: Debit cards are issued by banks and are linked to a bank account. Credit cards are issued by banks / other entities approved by RBI. The credit limits sanctioned to a card holder is in the form of a revolving line of credit (similar to a loan sanctioned by the issuer) and may or may not be linked to a bank account. Prepaid cards are issued by the banks / non-banks against the value paid in advance by the cardholder and stored in such cards which can be issued as smart cards or chip cards, magnetic stripe cards, internet accounts, internet wallets, mobile accounts, mobile wallets, paper vouchers, etc.
+
+Q. No. 3: What are the usages of debit cards?
+
+Ans: The debit cards are used to withdraw cash from an ATM, purchase of goods and services at Point of Sale (POS)/E-commerce (online purchase) both domestically and internationally (provided it is enabled for international use). However, it can be used only for domestic fund transfer from one person to another.
+
+Q. No. 4: What are the usages of credit cards?
+
+Ans: The credit cards are used for purchase of goods and services at Point of Sale (POS) and E-commerce (online purchase)/ through Interactive Voice Response (IVR)/Recurring transactions/ Mail Order Telephone Order (MOTO). These cards can be used domestically and internationally (provided it is enabled for international use). The credit cards can be used to withdraw cash from an ATM and for transferring funds to bank accounts, debit cards, credit cards and prepaid cards within the country.
+
+Q. No. 5: What are the usages of prepaid cards?
+
+Ans: The usage of prepaid cards depends on who has issued these cards. The prepaid cards issued by the banks can be used to withdraw cash from an ATM, purchase of goods and services at Point of Sale (POS)/E-commerce (online purchase) and for domestic fund transfer from one person to another. Such prepaid cards are known as open system prepaid cards. However, the prepaid cards issued by authorised non-bank entities can be used only for purchase of goods and services at Point of Sale (POS)/E-commerce (online purchase) and for domestic fund transfer from one person to another. Such prepaid cards are known as semi-closed system prepaid cards. These cards can be used only domestically.
+
+Q. No. 6: Is there any limit on the value stored in a prepaid card?
+
+Ans: Yes, as per extant instructions, the maximum value that can be stored in any prepaid card (issued by banks and authorised non-bank entities) at any point of time is Rs 50,000/-
+
+Q. No. 7: Can prepaid cards of lesser limits be issued?
+
+Ans: Yes. The following types of semi closed pre-paid payment instruments can be issued by carrying out Customer Due Diligence as detailed by the banks and authorised non- bank entities:
+
+a.Up to Rs.10,000/- by accepting minimum details of the customer provided the amount outstanding at any point of time does not exceed Rs 10,000/- and the total value of reloads during any given month also does not exceed Rs 10,000/-. These can be issued only in electronic form;
+
+
+b.from Rs.10,001/- to Rs.50,000/- by accepting any ‘officially valid document’ defined under Rule 2(d) of the PML Rules 2005, as amended from time to time. Such PPIs can be issued only in electronic form and should be non-reloadable in nature;
+
+
+c.up to Rs.50,000/- with full KYC and can be reloadable in nature. The balance in the PPI should not exceed Rs.50,000/- at any point of time.
+
+
+Q. No. 8: Who decides the limits on cash withdrawal or purchase of goods and services through use of a card?
+
+Ans: The limits on cash withdrawal at ATMs and for purchase of goods and services are decided by the issuer bank. However, in case of cash withdrawal at other bank’s ATM, there is a limit of Rs 10,000/- per transaction. Cash withdrawal at POS has also been enabled by certain banks wherein, a maximum of Rs.1000/- can be withdrawn daily by using debit cards.
+
+Q. No.9: Is the customer charged by his/her bank when he uses his debit card at other banks ATM for withdrawing cash?
+
+Ans: As per extant instructions, the savings bank account customer will not be charged by his/her bank up to five transactions (inclusive of both financial and non-financial transactions) in a month if he/she uses an ATM of another bank. However, within this overall limit of five free transactions, for transactions done at ATM of another bank located in the six metro centres, viz. Mumbai, New Delhi, Chennai, Kolkata, Bengaluru and Hyderabad, the free transaction limit is set to three transactions per month.
+
+Q. No.10: Where should the customer lodge a complaint in the event of a failed ATM transaction (account debited but cash not dispensed at the ATM)?
+
+Ans: The customer has to approach his/her bank (bank that issued the card) to lodge a complaint in the event of a failed ATM transaction.
+
+Q. No.11: What is the time limit for resolution of the complaint pertaining to failed ATM transaction?
+
+Ans: The time limit, for resolution of customer complaints by the issuing banks, is within 7 working days from the date of receipt of customer complaint. Hence the bank is supposed to re-credit the customer’s account within 7 working days. For failure to re-credit the customer’s account within 7 working days of receipt of the complaint from the customer, the bank is liable to pay Rs 100 per day as compensation to the customer.
+
+Q. No. 12: What is the option for a card holder if his complaint is not redressed by the issuer?
+
+Ans: If a complainant does not get satisfactory response from his/her bank within a maximum period of thirty (30) days from the date of his lodging the complaint, he/she will have the option to approach the Office of the Banking Ombudsman (in appropriate jurisdiction) for redressal of his grievance.
+
+Q. No. 13: How are the transactions carried out through cards protected against fraudulent usage?
+
+Ans: For carrying out any transactions at an ATM, the card holder has to key in the PIN which is known only to him/her for debit/credit and prepaid cards. However, for carrying out transactions at POS too, the card holder has to key-in the PIN which is known only to the card holder if a debit card is used. In the case of credit card usage at POS the requirement of PIN depends on the banks policy on security and risk mitigation. In the case of e-commerce transactions, additional factor of authentication is applicable except in case of international websites.
+
+Q. No. 14: What are the liabilities of a bank in case of fraudulent use of a card by unauthorised person?
+
+Ans: In case of card not present transactions RBI has mandated providing additional factor of authentication (if the issuer bank and e-commerce merchant bank is in India). Hence, if a transaction has taken place without the additional factor of authentication and the customer has complained that the transaction is not effected by her/him, then the issuer bank shall reimburse the loss to the customer without demur.
+
+Q. No. 15: Is there anyway a customer can come to know quickly whether a fraudulent transaction has taken place using his/her card?
+
+Ans: RBI has been taking various steps to ensure that card payment environment is safe and secure. RBI has mandated banks to send online alerts for all card transactions so that a card holder is aware of transactions taking place on his / her card.
+
+Q No. 16: What is the mandate for banks for issuing Magnetic stripe cards or Chip-based cards?
+
+Ans: RBI has mandated that banks may issue new debit and credit cards only for domestic usage unless international use is specifically sought by the customer. Such cards enabling international usage will have to be essentially EMV Chip and Pin enabled. The banks have also been instructed to convert all existing Mag-stripe cards to EMV Chip card for all customers who have used their cards internationally at least once (for/through e- commerce/ATM/POS).

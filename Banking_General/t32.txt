@@ -1,0 +1,15 @@
+The electronic modes of payment like RTGS, NEFT and IMPS have emerged as channel agnostic modes of funds transfer. These have picked up to a large extent through the internet banking channel and hence it is imperative that such delivery channels are also safe and secure. Some of the additional measures that need to be introduced by the banks could be as follows :
+
+(i) Customer induced options may be provided for fixing a cap on the value / mode of transactions / beneficiaries. In the event of customer wanting to exceed the cap, an additional authorization may be insisted upon.
+
+(ii) Limit on the number of beneficiaries that may be added in a day per account could be considered.
+
+(iii) A system of alert may be introduced when a beneficiary is added.
+
+(iv) Banks may put in place mechanism for velocity check on the number of transactions effected per day / per beneficiary and any suspicious operations should be subjected to alert within the bank and to the customer.
+
+(v) Introduction of additional factor of authentication (preferably dynamic in nature) for such payment transactions should be considered.
+
+(vi) The banks may consider implementation of digital signature for large value payments for all customers, to start with for RTGS transactions.
+
+(vii) Capturing of Internet Protocol (IP) address as an additional validation check should be considered.

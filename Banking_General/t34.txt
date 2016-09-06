@@ -1,0 +1,3 @@
+Banks are required to put in place a system of online alerts for all types of transactions irrespective of the amounts involving usage of cards at various channels.
+
+Accordingly, with a view to ensuring reasonableness and equity in the charges levied by banks for sending SMS alerts to customers, banks are advised to leverage the technology available with them and the telecom service providers to ensure that such charges are levied on all customers on actual usage basis.

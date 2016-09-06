@@ -1,0 +1,14 @@
+4.2 IT-enabled Financial Inclusion
+
+Though the banks make available a Basic Savings Bank Deposit Account so as to achieve the objective of greater financial inclusion, yet financial inclusion objectives would not be fully met if the banks do not increase the banking outreach to the remote corners of the country. This has to be done with affordable infrastructure and low operational costs with the use of appropriate technology. This would enable banks to lower the transaction costs to make small ticket transactions viable.
+
+A few banks have already initiated certain pilot projects in different remote parts of the country utilizing smart cards/mobile technology to extend banking services similar to those dispensed from branches. Banks are, therefore, urged to scale up their financial inclusion efforts by utilizing appropriate technology. Care may be taken to ensure that the solutions developed are:
+
+•highly secure,
+
+
+•amenable to audit and
+
+
+•follow widely accepted open standards to allow inter-operability among the different systems adopted by different banks.
+

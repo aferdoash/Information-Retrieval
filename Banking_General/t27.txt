@@ -1,0 +1,15 @@
+Reserve Bank has been receiving a number of complaints from bank customers, regarding debit of accounts even though the ATMs have not disbursed cash for various reasons. More importantly, banks take considerable time in reimbursing the amounts involved in such failed transactions to card holders. In many cases, the time taken is as much as 50 days. The delay of the magnitude indicated above is not justified, as it results in customers being out of funds for a long time for no fault of theirs. Moreover, this delay can discourage customers from using ATMs.
+
+Based on a review of the developments and with a view to further improve the efficiency of operations, it has been decided as under:-
+
+a.The time limit for resolution of customer complaints by the issuing banks shall stand reduced from 12 working days to 7 working days from the date of receipt of customer complaint. Accordingly, failure to recredit the customer’s account within 7 working days of receipt of the complaint shall entail payment of compensation to the customer @  ` 100/- per day by the issuing bank. This compensation shall be credited to the customer’s account automatically without any claim from the customer, on the same day when the bank affords the credit for the failed ATM transaction.
+
+
+b.Any customer is entitled to receive such compensation for delay, only if a claim is lodged with the issuing bank within 30 days of the date of the transaction.
+
+
+c.The number of free transactions permitted per month at other bank ATMs to Savings Bank account holders shall be inclusive of all types of transactions, financial or non-financial.
+
+
+d.All disputes regarding ATM failed transactions shall be settled by the issuing bank and the acquiring bank through the ATM System Provider only. No bilateral settlement arrangement outside the dispute resolution mechanism available with the system provider is permissible. This measure is intended to bring down the instances of disputes in payment of compensation between the issuing and acquiring banks. 
+
